@@ -1,7 +1,22 @@
+# Unity generated
 Library/
+Temp/
 Logs/
+obj/
+Build/
+Builds/
 UserSettings/
+
+# VS Code
 .vscode/
+
+# Visual Studio
+.vs/
 *.csproj
 *.sln
-lost-and-found.slnx
+*.slnx
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
